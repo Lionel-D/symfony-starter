@@ -1,3 +1,8 @@
+# mac OS system files --------- #
+*.DS_Store
+
+# IDE files ------------------- #
+/.idea/
 
 ###> symfony/framework-bundle ###
 /.env.local
