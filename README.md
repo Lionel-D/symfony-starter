@@ -27,5 +27,5 @@
 
 ### Local environment
 
-- `yarn encore dev --watch` to launch webpack.
+- `yarn watch` to launch webpack.
 - `symfony server:start` to launch local server.
